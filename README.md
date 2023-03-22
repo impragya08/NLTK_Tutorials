@@ -7,10 +7,7 @@ Here's what I learned:
 * Tokenization and stemming of text data
 * Part-of-speech tagging and named entity recognition
 * Text classification using machine learning algorithms
-* Sentiment analysis using NLTK
-* Topic modeling using Latent Dirichlet Allocation (LDA)
-* Word embeddings and text similarity
-* Building chatbots using NLTK and other libraries
+
 
 I also gained hands-on experience using Python and NLTK to preprocess and manipulate text data, train machine learning models, and visualize NLP results. 
 Additionally, the course covered topics such as text classification using machine learning algorithms, sentiment analysis, topic modeling, word embeddings, and text similarity.
